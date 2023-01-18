@@ -1,6 +1,6 @@
 function fn(){
     console.log(text);
-    var text = 'Exempo';
+    var text = 'Exemplo';
     
     console.log(text)
 }
